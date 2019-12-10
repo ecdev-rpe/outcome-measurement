@@ -1,7 +1,7 @@
 # Outcome Measurement
 
 ## Team
-![GitHub Logo](/images/logo.png)
+!(https://avatars2.githubusercontent.com/u/58710677?s=460&v=4)
 ![David](https://github.com/ddrohan-2)
  https://github.com/akzachernuk https://github.com/achwist
 
