@@ -1,7 +1,9 @@
 # Outcome Measurement
 
 ## Team
-https://github.com/ddrohan-2 https://github.com/akzachernuk https://github.com/achwist
+![GitHub Logo](/images/logo.png)
+![David](https://github.com/ddrohan-2)
+ https://github.com/akzachernuk https://github.com/achwist
 
 ## Stay in Touch
 If you have any questions, feel free to email david.drohan@gov.bc.ca.
