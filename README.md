@@ -1,5 +1,5 @@
 # Outcome Measurement
-This is the primary repo for the Regional Programs and Engagement Branch at the Ministry of Jobs, Trade and Technology. The aim of this project is to measure the impact of programs carried out by the branch against desired outcomes. 
+This is the primary repo for the Regional Programs and Engagement Branch at the Ministry of Jobs, Trade and Technology. The aim of this project is to measure the real impact of programs carried out by the branch against desired outcomes. 
 
 ## Team
 David Drohan, a dude
